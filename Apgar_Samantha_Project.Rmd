@@ -1,0 +1,60 @@
+---
+title: "Nest structure variation across four sympatric tidal marsh birds"
+author: "Samantha Apgar and Liz Clifton"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+affil: "Ecology and Evolutionary Biology Department, University of Connecticut, Storrs, CT"
+url: "Samantha.Apgar@uconn.edu Elizabeth.Clifton@uconn.edu"
+
+\newpage 
+
+# Abstract:
+
+# Section 1: Introduction and Description of Data
+
+# Section 2: Exploratory Data Analysis
+
+Bar graph within each species:
+No, partial, full woven nest dome
+No, partial, full under thatch
+
+Boxplots across 4 species:
+Nest height
+% cover
+
+# Section 3: Statistical Inference
+
+Question: How does nest height vary among Saltmarsh Sparrow, Seaside Sparrow, Willet, and Clapper Rails?
+$H_0$: $\mu_1 = \mu_2 = \mu_3 = \mu_4$ 
+$H_1$: $\mu_1 \neq \mu_2 \neq \mu_3 \neq \mu_4$ 
+
+Question: How does percent visibility vary among Saltmarsh Sparrow, Seaside Sparrow, Willet, and Clapper Rails?
+$H_0$: $\mu_1 = \mu_2 = \mu_3 = \mu_4$ 
+$H_1$: $\mu_1 \neq \mu_2 \neq \mu_3 \neq \mu_4$ 
+
+Question: Do the majority of Saltmarsh Sparrow nests have a full woven nest dome?
+$H_0$: $p = .50 $ 
+$H_1$: $p \neq .50 $ 
+
+Question: 
+
+
+
+CIs:
+
+
+Section 4: Discussion of Results and Concluding Remarks
+
+
+Section 5: Appendix
+
+References
+
+
+
+
